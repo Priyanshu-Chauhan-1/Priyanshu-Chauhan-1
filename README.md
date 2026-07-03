@@ -6,7 +6,7 @@ I am currently pursuing a Master of Computer Application (MCA) from Gurukul Kang
 
 ## Technical Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, JAVA
 - **Automation:** Selenium
 - **Data Science:** Basic data analysis and visualization
 - **Database Management:** SQL
